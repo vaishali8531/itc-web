@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ITC | About</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body class="about">
+  <div class="container">
+    <h1>About ITC</h1>
+    <p class="intro">The <strong>Institute Technical Council (ITC)</strong> at IIT Bombay is the guiding force behind all student-led technical activities on campus. We strive to build a vibrant tech ecosystem where students can explore their interests, innovate collaboratively, and grow both technically and personally.</p>
+    <ul class="goals">
+      <li>🚀 Organize hands-on workshops and hackathons</li>
+      <li>🤝 Facilitate peer-to-peer learning and mentoring</li>
+      <li>🌐 Connect students with real-world tech challenges</li>
+    </ul>
+    <a href="index.html" class="btn">Back to Home</a>
+  </div>
+</body>
+</html>
