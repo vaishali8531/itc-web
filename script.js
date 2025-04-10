@@ -1,9 +1,0 @@
-document.addEventListener("DOMContentLoaded", () => {
-  const form = document.querySelector("form");
-
-  form.addEventListener("submit", function (e) {
-    e.preventDefault(); // Stop the form from refreshing the page
-    alert("Thank you! Your message has been submitted.");
-    form.reset(); // Clear the form
-  });
-});
